@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Anindya Adhikari, a Data Analyst passionate about extracting insights from data and building data-driven solutions. I have a strong foundation in analytics and problem-solving, with prior professional exposure to cyber security as a Penetration Tester.
+Hi, I’m Anindya Adhikari, a Data Analyst passionate about extracting insights from data and building data-driven solutions. I have a strong foundation in analytics and problem-solving.
 
 
 ## 🌐 Socials:
